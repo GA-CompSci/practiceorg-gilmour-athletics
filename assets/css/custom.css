@@ -5,8 +5,15 @@ Blue: #1E376C
 White: #FFFFFF
 
 Gray: #D6D6D6
-*****/
 
+
+
+
+.header.header-color-black {
+    background-color:#1E376C;
+}
+
+/************** Fonts *************/
 body,p,div{
      font-family: "Funnel Display", sans-serif;
 }
@@ -14,4 +21,12 @@ body,p,div{
 h1,h2,h3,h4,h5,h6 {
       font-family: "Alfa Slab One", serif;
 
+}
+
+.bg-dark {
+    background: #1E376C !important;
+}
+.header.header-color-black {
+    background:#1E376C
+;
 }
